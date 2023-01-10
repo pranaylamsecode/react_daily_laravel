@@ -1,0 +1,331 @@
+
+#winterTheme .navbar-brand .libLogo {
+  width: 180px !important;
+  height: auto;
+}
+
+#microphone {
+  margin-left: 10px;
+}
+#winterTheme .recentSearches,
+#winterTheme .recentSearches h3 {
+  margin-left: 0px;
+}
+
+#winterTheme .recentSearches .recentSearchData {
+  margin-left: -11%;
+}
+
+#winterTheme {
+  width: 100%;
+  float: left;
+}
+
+#winterTheme .jumbotron {
+  text-align: left;
+}
+
+#winterTheme .jumbotron h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 120px 0 20px 0px;
+  width: 100%;
+  float: left;
+  background: linear-gradient(to bottom, #cf4745 10%, #cf4745 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#firstTimeLoginModal .modal-dialog {
+  border-radius: 10px;
+  border: 4px solid c27b7f;
+}
+
+#firstTimeLoginModal .lib_name,
+#guestLoginModal .lib_name {
+  background: linear-gradient(to bottom, #c27b7f 10%, #c27b7f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+#winterTheme .jumbotron h4 {
+  margin-bottom: 20px;
+}
+
+#winterTheme .jumbotron h4,
+#winterTheme .navbar-form a {
+  color: #444444;
+  margin: 0 0 25px 0;
+  margin-top: 18px;
+}
+
+.brand-name {
+  background: none;
+  padding: 5px 0 5px;
+}
+
+.brand-name .lib-logo {
+  background: url(../images/du/logo.svg) no-repeat;
+  width: 100%;
+  height: 82px;
+  margin: 25px 0px 25px 0px;
+  float: none;
+  display: block;
+  background-position: center;
+}
+
+#myCarousel .item a {
+  text-align: left;
+}
+
+.left.carousel-control {
+  left: 0px;
+}
+
+.carousel .right.carousel-control {
+  left: auto;
+  box-shadow: 1px 1px 1px #cccccc;
+  border-radius: 50%;
+  padding: 1px 14px;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+}
+
+.carousel .right.carousel-control .fa,
+.carousel .left.carousel-control .fa {
+  color: c27b7f;
+}
+
+.carousel .left.carousel-control {
+  left: -65px;
+  box-shadow: 1px 1px 1px #cccccc;
+  border-radius: 50%;
+  padding: 1px 14px;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+}
+
+.carousel-inner {
+  min-height: 363px;
+}
+
+/* Color Code */
+#topics .boxes .grid .box .overview .imgbox h3 .text-desc,
+.dashboard .dashboardRightBlock .sectionBox h4,
+.viewMode .resultView .active,
+.saveSearchLink a:hover,
+.feed-section .right-block .media .btn,
+.savedDocLeftBlock ul li li a.active,
+.savedDocLeftBlock ul li li a:hover,
+.breadcrumb a:hover,
+.viewMode .resultView .active,
+.viewMode .resultView:hover .fa,
+.overviewBox .moreDetails ul li a.active,
+.overviewBox .moreDetails.journals ul li a,
+.advance-form .nav-tabs > li.active > a,
+.advance-form .nav-tabs > li.active > a:focus,
+.advance-form .nav-tabs > li.active > a:hover,
+#winterTheme .navbar-right .logIn a,
+#winterTheme .navbar-default .navbar-nav > li > a,
+#winterTheme .trendingSearches ul li a,
+.resetPwd .title,
+.profileContainer .title,
+#winterTheme .navbar-right li a .fa,
+#winterTheme .searchTipsBox a,
+.docBlock h4 a {
+  color: #c27b7f !important;
+}
+
+.featuredCollections .contentBox {
+  background-color: c27b7f;
+}
+
+.alpha a span {
+  border-radius: 4px;
+  width: 20px;
+  text-align: center;
+  color: c27b7f;
+  border: 1px solid c27b7f;
+  padding: 5px 5px 5px 5px;
+  font-weight: bold;
+}
+#headerTheme .navbar-default .navbar-nav > li .winter-dropdown-menu .alpha a {
+  margin: 8px 10px 0 0 !important;
+}
+
+.sk-three-bounce .sk-child {
+  background-color: #c27b7f !important;
+}
+
+#winterTheme .navbar-right .logIn a {
+  border: 1px solid c27b7f;
+}
+
+.libraryCollection .left-panel {
+    background: linear-gradient(to right bottom, #652b7c, #652b7c) !important;
+}
+
+.libraryCollection .left-panel .commonThemeHeading,
+.libraryCollection .left-panel p,
+.libraryCollection .left-panel a {
+  color: white;
+}
+
+#winterTheme .navbar-form .input-group {
+  background: var(--white);
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(to right, #d15eff, c27b7f);
+  border-image-slice: 1;
+}
+.libraryInfo,
+.topUsers .topUserBlockContent {
+  background: linear-gradient(to right bottom, c27b7f, c27b7f) !important;
+}
+/* Color Code */
+
+.btn-read,
+.btn-read:hover,
+.btn-refread,
+.btn-refread:hover,
+.btn-primary,
+.btn-primary:hover,
+.btn-success,
+.btn-success:hover,
+.btn-feedback:hover,
+.btn-requestDemo {
+  background: linear-gradient(to right bottom, c27b7f, c27b7f) !important;
+  /* background: c27b7f !important; */
+}
+
+.btn-requestDemo:hover {
+  background: linear-gradient(to right bottom, c27b7f, c27b7f) !important;
+  color: #ffffff;
+}
+
+/* Background color Code */
+#topics .boxes .grid .box,
+#topics .boxes .grid .box .imgbox,
+.dashboard .dashboardRightBlock.collectionsBlock .cardBody .boxStyle.green,
+.searchWithIn .btn-searchwithin,
+.savedDocLeftBlock ul li a.active,
+.savedDocLeftBlock ul li a:hover,
+.feed-section .right-block .media .btn:hover,
+.btn-ref-primary,
+.feed-section .alluserslistTabs a.btn:hover,
+.filterContainer ul li a:hover,
+.subjectDropdown .subjectFilters ul li a:hover,
+.viewMode .dropdown-menu li a:hover {
+  background: c27b7f;
+  color: #ffffff !important;
+}
+
+/* Background color Code */
+
+/* Border color */
+#topics .boxes .grid .box .overview .imgbox,
+.dashboard .dashboardRightBlock .sectionBox h4,
+.dashboard .dashboardRightBlock .tabsbox li a.active,
+.feed-section .right-block .media .btn,
+.feed-section .container-block .profile-block,
+.filters,
+.filterContainer button:focus,
+.filterContainer button:hover,
+.advance-form .nav-tabs > li.active > a,
+.advance-form .nav-tabs > li.active > a:focus,
+.advance-form .nav-tabs > li.active > a:hover {
+  border-color: c27b7f;
+}
+
+/* Border color */
+
+#topics .boxes .grid .box .overview .overviewDescBox .btn-primary,
+.users .card .card-title .card-link a.btn-success,
+.users .card .card-body .cardTable li .badge-edit,
+.dwnReportModal .btn-requestDemo,
+#userEditModal form button.btn-requestDemo,
+#userPwdModal form button.btn-requestDemo,
+.btn-success {
+  background: c27b7f;
+  background: -webkit-linear-gradient(to right bottom, c27b7f, c27b7f);
+  background: linear-gradient(to right bottom, c27b7f, c27b7f);
+  text-align: center !important;
+}
+
+.users .card .card-title .card-link a.btn-success:hover,
+.users .card .card-body .cardTable li .badge-edit:hover,
+.dwnReportModal .btn-requestDemo:hover,
+#userEditModal form button.btn-requestDemo:hover,
+#userPwdModal form button.btn-requestDemo:hover,
+.btn-success:hover {
+  background: c27b7f;
+  background: -webkit-linear-gradient(to right bottom, c27b7f, c27b7f);
+  background: linear-gradient(to right bottom, c27b7f, c27b7f);
+  color: #ffffff;
+}
+
+.noticeBlock .media-list .fa,
+.aboutCollection .icon-box .fa,
+.topUsers .thumbnail .no-img-circle span {
+  background: linear-gradient(to right, #c27b7f 0, #c27b7f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.feedbackSection .rightPanel .imgBlock .libName {
+  top: 120px;
+}
+
+.breadcrumbContainer .navbar-nav li .borderBottom.active,
+.breadcrumbContainer .navbar-nav li .borderBottom:hover,
+.sourcesBar .navbar-nav li a.active,
+.sourcesBar .navbar-nav li a:hover {
+  color: #c27b7f !important;
+  border-bottom: 5px solid #c27b7f !important;
+}
+
+.sourceName {
+  border: 1px solid c27b7f;
+  color: c27b7f;
+}
+
+.getMoreSection a,
+.previewOnly a {
+  color: c27b7f;
+  font-size: 13px;
+  /* padding: 5px; */
+  text-decoration: none;
+}
+.modal.custom .modal-dialog {
+  width: 20%;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 0;
+}
+.progress-circle.over50 .first50-bar {
+  background-color: #c27b7f !important;
+}
+.value-bar {
+  border: 1.2em solid #c27b7f !important;
+}
+.progress-bar {
+  background-image: -webkit-linear-gradient(top, #c27b7f 0, #c27b7f 100%);
+  background-image: -o-linear-gradient(top, #c27b7f 0, #c27b7f 100%);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(c27b7f),
+    to(c27b7f)
+  );
+  background-image: linear-gradient(to bottom, #c27b7f 0, #c27b7f 100%);
+  background-color: c27b7f;
+}
+#searchStatusModal .modal-header {
+  padding: 10px 10px 0px 0px;
+  border: none !important;
+  background-color: c27b7f;
+}
+.spaceContainer {
+  margin-top: 1%;
+}
