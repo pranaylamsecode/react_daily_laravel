@@ -1,21 +1,12 @@
 import React from "react";
-import Header from "./Header";
-import Footer from "./Footer";
-import Hero from "./Hero";
+import ComboBox from "./pages/ComboBox";
+import CountrySelect from "./pages/CountrySelect";
+import FileSystemNavigator from "./pages/FileSystemNavigator";
+
+import StandardImageList from "./StandardImageList";
+
 const App = () => {
-  return (
-    <>
-      <div ui-view="" autoscroll="true" className="ng-scope">
-        <div id="headerTheme" className="ng-scope">
-          <div id="winterTheme" className="resetHeader">
-            <Header />
-            <Hero />
-            <Footer />
-          </div>
-        </div>
-      </div>
-    </>
-  );
+  return <CountrySelect />;
 };
 
 export default App;
